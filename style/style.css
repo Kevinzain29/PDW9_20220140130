@@ -1,0 +1,27 @@
+body{
+    background-image: url(https://images.pexels.com/photos/412462/pexels-photo-412462.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+}
+
+.carousel-caption {
+    padding-bottom: 50px;
+}
+
+.arab {
+    padding-bottom: 20px;
+}
+
+.daftar {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 50px;
+}
+
+.daftar img {
+    margin-bottom: 20px;
+}
+
+.daftar-button {
+    margin-top: 20px;
+}
+
