@@ -2,6 +2,10 @@ body{
     background-image: url(https://images.pexels.com/photos/412462/pexels-photo-412462.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
 }
 
+.carousel img{
+    height: 800px;
+}
+
 .carousel-caption {
     padding-bottom: 50px;
 }
